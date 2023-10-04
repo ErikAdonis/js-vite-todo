@@ -1,6 +1,11 @@
 import { Todo } from '../todos/models/todo.model';
 // Coment
+<<<<<<< HEAD
 // comment
+=======
+//comment 2
+
+>>>>>>> developer
 const Filters = {
     All: 'all',
     Completed: 'Completed',
