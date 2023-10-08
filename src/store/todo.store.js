@@ -97,7 +97,7 @@ const setFilter = (newFilter = Filters.All) => {
 }
 
 const getCurrentFilter = () => {
-    state.filter;
+    return state.filter;
 }
 
 export default {
